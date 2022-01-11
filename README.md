@@ -33,7 +33,7 @@ With Kivy : Run app.py
 ```
 
 ## Demo
-![Demo](https://user-images.githubusercontent.com/68743282/133242658-e2ea4dde-2242-471b-9d50-6d2f3237b5f4.gif)
+![Demo](https://user-images.githubusercontent.com/68743282/148989567-6c7c614c-10e1-4411-b7b2-4727e7d2ac3d.gif)
 
 ## Siamese network for One-Shot Facial Recognition
 <img src = "https://miro.medium.com/max/2000/1*0r9VQflnHkKn7O_82_59xg.jpeg"></img>
