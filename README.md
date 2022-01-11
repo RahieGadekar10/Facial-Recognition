@@ -38,6 +38,11 @@ With Kivy : Run app.py
 ## Siamese network for One-Shot Facial Recognition
 <img src = "https://miro.medium.com/max/2000/1*0r9VQflnHkKn7O_82_59xg.jpeg"></img>
 
+## Link to the Research Paper
+```bash
+https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+```
+
 ## Authors
 
 - [@RahieGadekar10](https://www.github.com/RahieGadekar10)
